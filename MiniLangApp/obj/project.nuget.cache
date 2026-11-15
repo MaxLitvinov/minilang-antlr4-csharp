@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0aRvnTsTl9E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\X_X\\MiniLangApp\\MiniLangApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\X_X\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}

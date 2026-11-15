@@ -1,0 +1,17 @@
+C:\Users\X_X\MiniLangApp\obj\Debug\net8.0\MiniLangApp.csproj.AssemblyReference.cache
+C:\Users\X_X\MiniLangApp\obj\Debug\net8.0\MiniLangApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X_X\MiniLangApp\obj\Debug\net8.0\MiniLangApp.AssemblyInfoInputs.cache
+C:\Users\X_X\MiniLangApp\obj\Debug\net8.0\MiniLangApp.AssemblyInfo.cs
+C:\Users\X_X\MiniLangApp\obj\Debug\net8.0\MiniLangApp.csproj.CoreCompileInputs.cache
+C:\Users\X_X\MiniLangApp\bin\Debug\net8.0\MiniLangApp.exe
+C:\Users\X_X\MiniLangApp\bin\Debug\net8.0\MiniLangApp.deps.json
+C:\Users\X_X\MiniLangApp\bin\Debug\net8.0\MiniLangApp.runtimeconfig.json
+C:\Users\X_X\MiniLangApp\bin\Debug\net8.0\MiniLangApp.dll
+C:\Users\X_X\MiniLangApp\bin\Debug\net8.0\MiniLangApp.pdb
+C:\Users\X_X\MiniLangApp\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\X_X\MiniLangApp\obj\Debug\net8.0\MiniLang.B0ECEB73.Up2Date
+C:\Users\X_X\MiniLangApp\obj\Debug\net8.0\MiniLangApp.dll
+C:\Users\X_X\MiniLangApp\obj\Debug\net8.0\refint\MiniLangApp.dll
+C:\Users\X_X\MiniLangApp\obj\Debug\net8.0\MiniLangApp.pdb
+C:\Users\X_X\MiniLangApp\obj\Debug\net8.0\MiniLangApp.genruntimeconfig.cache
+C:\Users\X_X\MiniLangApp\obj\Debug\net8.0\ref\MiniLangApp.dll
